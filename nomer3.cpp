@@ -1,3 +1,6 @@
+# Author : M Daffa
+# Team   : Black Coder Crush
+
 #include<iostream.h>
 #include<conio.h>
 
