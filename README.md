@@ -6,10 +6,10 @@ Materi Deret bilangan di c++
 
 # Jawaban
 
-<a href="nomer1.cpp">Nomer Satu</a><br>
-<a href="nomer2.cpp">Nomer Dua</a><br>
-<a href="nomer3.cpp">Nomer Tiga</a><br>
-<a href="nomer4.cpp">Nomer Empat</a><br>
-<a href="nomer5.cpp">Nomer Lima</a><br>
-<a href="nomer6.cpp">Nomer Enam</a><br>
+- [x] <a href="nomer1.cpp">Nomer Satu</a><br>
+- [x] <a href="nomer2.cpp">Nomer Dua</a><br>
+- [x] <a href="nomer3.cpp">Nomer Tiga</a><br>
+- [x] <a href="nomer4.cpp">Nomer Empat</a><br>
+- [x] <a href="nomer5.cpp">Nomer Lima</a><br>
+- [x] <a href="nomer6.cpp">Nomer Enam</a><br>
 
